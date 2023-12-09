@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Synthesis_Assignment___Web
+build_property.RootNamespace = Synthesis_Assignment___Web
+build_property.ProjectDir = C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/AccountDetailsEditPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudERldGFpbHNFZGl0UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/AccountPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/CategoriesPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0ZWdvcmllc1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/FinishPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmluaXNoUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/InvalidCredentials.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW52YWxpZENyZWRlbnRpYWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nSW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/OrderHistoryPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJIaXN0b3J5UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/PickTimeslotPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGlja1RpbWVzbG90UGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/ProductOverview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdE92ZXJ2aWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/ShoppingCart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmdDYXJ0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lnblVwLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/SubcategoriesPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViY2F0ZWdvcmllc1BhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/TimeslotFull.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGltZXNsb3RGdWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Costin/Desktop/Uni Work/Semester 2/Synthesis Assignment/synthesis-assignment-costin-burlacioiu/Synthesis Assignment - Web/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1zwsicvms5

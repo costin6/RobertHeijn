@@ -1,0 +1,17 @@
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment.exe
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment.deps.json
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment.runtimeconfig.json
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment.pdb
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment.csproj.AssemblyReference.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis_Assignment.AddProductForm.resources
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment.csproj.GenerateResource.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment.AssemblyInfoInputs.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment.AssemblyInfo.cs
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\refint\Synthesis Assignment.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment.pdb
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment.genruntimeconfig.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\ref\Synthesis Assignment.dll

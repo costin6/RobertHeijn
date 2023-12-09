@@ -1,0 +1,24 @@
+C:\Users\Costin\Desktop\sa\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\Costin\Desktop\sa\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Costin\Desktop\sa\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Costin\Desktop\sa\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Costin\Desktop\sa\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costin\Desktop\sa\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Costin\Desktop\sa\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Costin\Desktop\sa\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Costin\Desktop\sa\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Costin\Desktop\sa\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\Costin\Desktop\sa\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Costin\Desktop\sa\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

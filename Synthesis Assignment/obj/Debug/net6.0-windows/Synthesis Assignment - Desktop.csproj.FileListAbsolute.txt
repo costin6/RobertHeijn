@@ -1,0 +1,58 @@
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment - Desktop.exe
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment - Desktop.deps.json
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment - Desktop.runtimeconfig.json
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment - Desktop.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment - Desktop.pdb
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\DataAccessLayer.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\LogicLayer.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\DataAccessLayer.pdb
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\bin\Debug\net6.0-windows\LogicLayer.pdb
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.csproj.AssemblyReference.cache
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis_Assignment.EmployeeForm.resources
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis_Assignment.LogInForm.resources
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.csproj.GenerateResource.cache
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.AssemblyInfoInputs.cache
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.AssemblyInfo.cs
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.csproj.CopyComplete
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\refint\Synthesis Assignment - Desktop.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.pdb
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.genruntimeconfig.cache
+C:\Users\Costin\Desktop\sa\Synthesis Assignment\obj\Debug\net6.0-windows\ref\Synthesis Assignment - Desktop.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.csproj.AssemblyReference.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis_Assignment.EmployeeForm.resources
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis_Assignment.LogInForm.resources
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.csproj.GenerateResource.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.AssemblyInfoInputs.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.AssemblyInfo.cs
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.csproj.CoreCompileInputs.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment - Desktop.exe
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment - Desktop.deps.json
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment - Desktop.runtimeconfig.json
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment - Desktop.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\Synthesis Assignment - Desktop.pdb
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\DataAccessLayer.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\LogicLayer.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\DataAccessLayer.pdb
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\bin\Debug\net6.0-windows\LogicLayer.pdb
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.csproj.CopyComplete
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\refint\Synthesis Assignment - Desktop.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.pdb
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\Synthesis Assignment - Desktop.genruntimeconfig.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment\obj\Debug\net6.0-windows\ref\Synthesis Assignment - Desktop.dll

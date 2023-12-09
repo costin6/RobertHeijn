@@ -1,0 +1,84 @@
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\Synthesis Assignment - Web.staticwebassets.runtime.json
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\Synthesis Assignment - Web.exe
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\Synthesis Assignment - Web.deps.json
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\Synthesis Assignment - Web.runtimeconfig.json
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\Synthesis Assignment - Web.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\Synthesis Assignment - Web.pdb
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\LogicLayer.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\bin\Debug\net6.0\LogicLayer.pdb
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.csproj.AssemblyReference.cache
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.AssemblyInfoInputs.cache
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.AssemblyInfo.cs
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.csproj.CoreCompileInputs.cache
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.RazorAssemblyInfo.cache
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.RazorAssemblyInfo.cs
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets\msbuild.Synthesis Assignment - Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Synthesis Assignment - Web.props
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Synthesis Assignment - Web.props
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Synthesis Assignment - Web.props
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\scopedcss\bundle\Synthesis Assignment - Web.styles.css
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\scopedcss\projectbundle\Synthesis Assignment - Web.bundle.scp.css
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.csproj.CopyComplete
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\refint\Synthesis Assignment - Web.dll
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.pdb
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.genruntimeconfig.cache
+C:\Users\Costin\Desktop\sa\Synthesis Assignment - Web\obj\Debug\net6.0\ref\Synthesis Assignment - Web.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.csproj.AssemblyReference.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.AssemblyInfoInputs.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.AssemblyInfo.cs
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.csproj.CoreCompileInputs.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.RazorAssemblyInfo.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.RazorAssemblyInfo.cs
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\appsettings.json
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\Synthesis Assignment - Web.staticwebassets.runtime.json
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\Synthesis Assignment - Web.exe
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\Synthesis Assignment - Web.deps.json
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\Synthesis Assignment - Web.runtimeconfig.json
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\Synthesis Assignment - Web.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\Synthesis Assignment - Web.pdb
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\LogicLayer.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\bin\Debug\net6.0\LogicLayer.pdb
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets\msbuild.Synthesis Assignment - Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Synthesis Assignment - Web.props
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Synthesis Assignment - Web.props
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Synthesis Assignment - Web.props
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\scopedcss\bundle\Synthesis Assignment - Web.styles.css
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\scopedcss\projectbundle\Synthesis Assignment - Web.bundle.scp.css
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.csproj.CopyComplete
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\refint\Synthesis Assignment - Web.dll
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.pdb
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\Synthesis Assignment - Web.genruntimeconfig.cache
+C:\Users\Costin\Desktop\Uni Work\Semester 2\Synthesis Assignment\synthesis-assignment-costin-burlacioiu\Synthesis Assignment - Web\obj\Debug\net6.0\ref\Synthesis Assignment - Web.dll
